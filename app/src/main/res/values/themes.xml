@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ZIOconversor" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/purple</item> <!-- Define a cor roxa como a cor primária -->
+    </style>
+
+    <style name="Theme.ZIOconversor" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>

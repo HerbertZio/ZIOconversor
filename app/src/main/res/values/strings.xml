@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tela de Escolha</string>
+    <string name="resultado_template">%1$.2f %2$s</string>
+
+</resources>

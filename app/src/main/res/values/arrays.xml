@@ -1,0 +1,24 @@
+<resources>
+    <string-array name="unidades_comprimento">
+        <item>Selecione</item>
+        <item>km (Quilômetro)</item>
+        <item>hm (Hectômetro)</item>
+        <item>dam (Decâmetro)</item>
+        <item>m (Metro)</item>
+        <item>dm (Decímetro)</item>
+        <item>cm (Centímetro)</item>
+        <item>mm (Milímetro)</item>
+    </string-array>
+
+
+    <string-array name="unidades_volume">
+        <item>Selecione</item>
+        <item>kL (Quilolitro)</item>
+        <item>hL (Hectolitro)</item>
+        <item>daL (Decalitro)</item>
+        <item>L (Litro)</item>
+        <item>dL (Decilitro)</item>
+        <item>cL (Centilitro)</item>
+        <item>mL (Mililitro)</item>
+    </string-array>
+</resources>
